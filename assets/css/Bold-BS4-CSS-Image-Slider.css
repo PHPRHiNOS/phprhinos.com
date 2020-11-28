@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.accordian {
+  width: 805px;
+  height: 320px;
+  overflow: hidden;
+  margin: 100px auto;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+  -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+}
+
+.accordian ul {
+  width: 1200px;
+}
+
+.accordian li {
+  position: relative;
+  display: block;
+  width: 160px;
+  float: left;
+  border-left: 1px solid #888;
+  box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+}
+
+.accordian ul:hover li {
+  width: 40px;
+}
+
+.accordian ul li:hover {
+  width: 640px;
+}
+
+.accordian li img {
+  display: block;
+}
+
+.image_title {
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 640px;
+  height: 60px;
+}
+
+.path3 {
+  float: left;
+}
+
+.youllgettoworkw-title-txt {
+}
+
+@media (min-width: 992px) {
+  .youllgettoworkw-title-txt {
+    font-size: 38.0px;
+    color: rgba(64, 78, 91, 1.0);
+    text-align: center;
+    letter-spacing: 0.75px;
+    line-height: 56.0px;
+    margin: 48px auto 0px auto;
+  }
+}
+
+.swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+}
+
+.getafreequote-span a {
+  color: white;
+}
+
+.contact-sales a, .contact-sales a:hover {
+  color: #7755FE;
+  font-family: open sans semiBold;
+}
+
+.getafreequote-span, .getafreequote-span:hover {
+  color: white;
+  font-family: open sans semiBold;
+}
+

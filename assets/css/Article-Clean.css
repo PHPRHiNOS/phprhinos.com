@@ -1,0 +1,384 @@
+.article-clean .intro {
+  font-size: 16px;
+  margin: 0 auto 30px;
+}
+
+.article-clean .intro h1 {
+  font-size: 32px;
+  margin-bottom: 15px;
+  padding-top: 20px;
+  line-height: 1.5;
+  color: #4A4A4A;
+  font-family: montserrat;
+  font-weight: bold;
+}
+
+.article-clean .intro p {
+  color: #929292;
+  font-size: 12px;
+}
+
+.article-clean .intro p .by {
+  font-style: italic;
+}
+
+.article-clean .intro p .date {
+  text-transform: uppercase;
+  padding: 4px 0 4px 10px;
+  margin-left: 10px;
+  border-left: 1px solid #ddd;
+}
+
+.article-clean .intro p a {
+  color: #333;
+  text-transform: uppercase;
+  padding-left: 3px;
+}
+
+.article-clean .intro img {
+  margin-top: 20px;
+}
+
+.article-clean .text p {
+  margin-bottom: 20px;
+  line-height: 1.45;
+}
+
+@media (min-width:768px) {
+  .article-clean .text p {
+    font-size: 16px;
+  }
+}
+
+.article-clean .text h2 {
+  margin-top: 28px;
+  margin-bottom: 20px;
+  line-height: 1.45;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+@media (min-width:768px) {
+  .article-clean .text h2 {
+    font-size: 20px;
+  }
+}
+
+.article-clean .text figure {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.article-clean .text figure img {
+  margin-bottom: 12px;
+  max-width: 100%;
+}
+
+sub-heading {
+}
+
+h1.sub-heading-two {
+  font-family: montserrat;
+  font-size: 24px;
+  color: #4A4A4A;
+  line-height: 40px;
+  margin-top: 32px;
+  padding: 16px 0;
+}
+
+h1.sub-heading, h1.sub-heading-two {
+  font-family: montserrat;
+  font-size: 24px;
+  color: black;
+  line-height: 40px;
+  margin-top: 24px;
+  text-align: center;
+  margin: 40px auto 48px auto;
+}
+
+.web-app {
+  max-width: 640px;
+}
+
+@media (min-width: 300px) {
+  .web-app {
+    max-width: 432px;
+  }
+}
+
+@media (min-width: 576px) {
+  .web-app {
+    max-width: 480px;
+  }
+}
+
+@media (min-width: 768px) {
+  .web-app {
+    max-width: 640px;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.iphone-with-purple-bg {
+  max-width: 480px;
+}
+
+@media (min-width: 992px) {
+  .iphone-with-purple-bg {
+    max-width: 440px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .iphone-with-purple-bg {
+    max-width: 480px;
+  }
+}
+
+.col.tech-support {
+  margin-top: 125px;
+}
+
+.tech-support.text-center {
+  font-family: montserrat;
+  font-size: 32px;
+  font-weight: bold;
+  color: #4A4A4A;
+}
+
+.star-icon {
+  margin: -12px 16px 0 0;
+}
+
+.tech-support-p {
+  text-align: left;
+  margin-top: 16px;
+  font-family: montserrat;
+}
+
+.design {
+  margin-top: 16px;
+}
+
+.design {
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+
+footer {
+  margin-bottom: 48px;
+}
+
+footer li {
+  line-height: 2em;
+  font-family: avenir next;
+  color: #4A4A4A;
+  font-size: 16px;
+}
+
+.quote-img {
+  max-width: 127px;
+  float: right;
+}
+
+h3.quote-msg {
+  font-family: montserrat;
+  font-size: 24px;
+  line-height: 48px;
+  color: black;
+  text-align: center;
+}
+
+span {
+  color: #FE6B6F;
+}
+
+@media (min-width: 992px) {
+  .d-flex.align-items-center.shape-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+}
+
+.d-flex.align-items-center.shape-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 457px;
+}
+
+.d-flex.align-items-center.shape-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 457px;
+}
+
+@media (min-width: 300px) {
+  .d-flex.align-items-center.shape-image {
+    max-width: 300px;
+  }
+}
+
+@media (min-width: 576px) {
+  .d-flex.align-items-center.shape-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 440px;
+  }
+}
+
+@media (min-width: 300px) {
+  .quote-img {
+    max-width: 80px;
+  }
+}
+
+@media (min-width: 576px) {
+  .quote-img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 300px) {
+  .iphone-with-purple-bg {
+    max-width: 240px;
+  }
+}
+
+@media (min-width: 576px) {
+  .iphone-with-purple-bg {
+    max-width: 300px;
+  }
+}
+
+@media (min-width: 992px) {
+  .iphone-with-purple-bg {
+    max-width: 400px;
+  }
+}
+
+.contact-us {
+}
+
+.contact-us h1 {
+  color: white;
+  font-family: montserrat;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+p.copyright {
+  text-align: center;
+}
+
+.social .copyright {
+  text-align: right;
+}
+
+textarea {
+  width: 100%;
+  border: none;
+}
+
+.input-group > .custom-select:not(:first-child), .input-group > .form-control:not(:first-child) {
+  background-color: #4A90E2;
+  border: none;
+  border-bottom: 1px solid white;
+}
+
+textarea {
+  background-color: #4A90E2;
+  border: none;
+  border-bottom: 1px solid white;
+}
+
+.get-a-quote {
+  font-size: 44px;
+  margin: 60px auto 24px auto;
+  font-family: montserrat;
+}
+
+label {
+  font-size: 24px;
+  font-family: montserrat;
+  margin-top: bold;
+}
+
+.quote-container {
+  padding: 60px auto;
+  background-color: #eef4f7;
+  padding: 48px 0;
+}
+
+.nav-item .contact-us {
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+}
+
+.text-center.telephone {
+  margin-top: 24px;
+  color: white;
+}
+
+.tech-support {
+  padding: 120px 0px;
+}
+
+img {
+}
+
+.rhino-logo {
+  text-align: center;
+}
+
+.projects .icon {
+  font-size: 60px;
+  color: #1485ee;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.form-group label {
+  color: white;
+  font-family: montserrat;
+  font-size: 24px;
+}
+
+.text-center.get-quote {
+  color: white;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+.form-control {
+  background-color: #4A90E2;
+  border: none;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);
+}
+
+textarea.form-control {
+  height: 50px;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  padding: .5rem .5rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+}
+

@@ -1,0 +1,66 @@
+.text-center.sub-heading {
+  font-size: 24px;
+  font-family: montserrat;
+  font-weight: normal;
+  color: #4A4A4A;
+  margin: 24px 0;
+}
+
+.text-center {
+  font-family: montserrat;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.fa {
+  margin: auto 16px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.features-boxed {
+  color: #313437;
+  background-color: #eef4f7;
+}
+
+.features-boxed p {
+  color: #7d8285;
+}
+
+.features-boxed .intro p {
+  margin-bottom: 0;
+}
+
+.features-boxed .features {
+  padding: 50px 0;
+}
+
+.features-boxed .item {
+  text-align: center;
+}
+
+.features-boxed .item .box {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+
+.features-boxed .item .icon {
+  font-size: 60px;
+  color: #1485ee;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.features-boxed .item .name {
+  font-size: 24px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  color: inherit;
+  font-family: montserrat;
+}
+

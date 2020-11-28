@@ -1,0 +1,77 @@
+.text-center.sub-heading {
+  font-size: 24px;
+  font-family: montserrat;
+  font-weight: normal;
+  color: #4A4A4A;
+  margin: 25px 0;
+}
+
+.text-center {
+  font-family: montserrat;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+@media (min-width: 300px) {
+  .img-fluid {
+    max-width: 88%;
+  }
+}
+
+.img-fluid:hover {
+  transform: scale(1.15);
+}
+
+.img-fluid {
+  transition: transform .3s;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.projects-clean {
+  color: black;
+  background-color: #fff;
+}
+
+.projects-clean p {
+  color: black;
+}
+
+.projects-clean .intro {
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+.projects-clean .intro p {
+  font-family: montserrat;
+  font-size: 24px;
+}
+
+.projects-clean .projects {
+  /*padding: 64px;*/
+}
+
+.projects-clean .item {
+  text-align: center;
+  padding-top: 24px;
+  min-height: 128px;
+}
+
+.projects-clean .item .name {
+  font-weight: bold;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  color: inherit;
+  font-family: montserrat;
+  font-size: 24px;
+}
+
+.projects-clean .item .description {
+  font-size: 24px;
+  margin-top: 16px;
+  font-family: montserrat;
+}
+
