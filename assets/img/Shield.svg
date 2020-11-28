@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 32px / Shield</title>
+    <g id="Icon-/-32px-/-Shield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Icon-BG-Copy" fill="#F98D5E" x="0" y="0" width="32" height="32" rx="10"></rect>
+            <g id="Shield" transform="translate(7.000000, 7.000000)" stroke="#FFFFFF" stroke-width="1.5">
+                <path d="M9,0.75 C6.78158569,0.75 4.03672421,1.66284148 0.756394328,3.44041129 C0.896412177,8.76360329 3.60377783,13.2465655 9.28417613,16.8916129 C14.427863,13.2242815 17.1041655,8.74920699 17.2442025,3.44134025 C13.9636241,1.66295733 11.2185551,0.75 9,0.75 Z" id="Path-3"></path>
+                <path d="M6,7.95 L7.87724228,9.55906481 C8.00106268,9.66519658 8.18698656,9.65297653 8.29585053,9.53155134 L12,5.4 L12,5.4" id="Path-4" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

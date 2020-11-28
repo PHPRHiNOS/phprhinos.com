@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>left-arrow</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-14.6%" y="-18.8%" width="129.2%" height="129.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-138.000000, -3076.000000)">
+            <g id="testimonial" transform="translate(142.000000, 2780.000000)">
+                <g id="testimonial-slider" transform="translate(0.000000, 176.000000)">
+                    <g id="Arrows" transform="translate(0.000000, 110.000000)">
+                        <g id="left-arrow" transform="translate(24.000000, 36.000000) rotate(-180.000000) translate(-24.000000, -36.000000) translate(0.000000, 12.000000)">
+                            <g id="Oval-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M21,18.4404917 L21,29.5595083 C21,29.9737219 21.3357864,30.3095083 21.75,30.3095083 C21.9038791,30.3095083 22.0540341,30.2621761 22.1800968,30.1739323 L30.1222515,24.6144239 C30.4615885,24.3768881 30.5441146,23.9092402 30.3065787,23.5699032 C30.256367,23.4981723 30.1939825,23.4357878 30.1222515,23.3855761 L22.1800968,17.8260677 C21.8407598,17.5885319 21.3731119,17.6710579 21.1355761,18.0103949 C21.0473322,18.1364576 21,18.2866126 21,18.4404917 Z" id="Path-3" fill="#515E7F"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

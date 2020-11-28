@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sketch</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="25"></rect>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-460.000000, -1089.000000)">
+            <g id="best-developers" transform="translate(165.000000, 854.000000)">
+                <g id="software-icons" transform="translate(95.000000, 235.000000)">
+                    <g id="sketch" transform="translate(200.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="BG" fill="#1895E9" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Sketch_ICON" mask="url(#mask-2)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <g transform="translate(15.000000, 18.000000)">
+                                <polygon id="Path-3" points="25.0279822 0.0901818187 11.1669096 1.3803773 10.5042476 15.878925"></polygon>
+                                <polygon id="Path-3-Copy" transform="translate(32.413050, 7.984553) scale(-1, 1) translate(-32.413050, -7.984553) " points="39.6749171 0.0901818187 25.8138446 1.3803773 25.1511826 15.878925"></polygon>
+                                <polygon id="Path-5" points="10.613721 16.1762535 39.664283 16.1762535 25.1675335 44.6169471"></polygon>
+                                <polygon id="Left" points="0.346743918 15.9572968 11.0899153 1.65690703 10.6164423 15.9572968"></polygon>
+                                <polygon id="Left-Copy" transform="translate(44.339125, 8.852958) scale(-1, 1) translate(-44.339125, -8.852958) " points="39.0584933 15.9094663 49.6197574 1.70276353 49.1462844 16.0031533"></polygon>
+                                <polygon id="Path-2" points="10.613721 15.9035517 39.5424724 15.9035517 25.0780967 0.281873621"></polygon>
+                                <polygon id="Path-4" points="25.121154 44.9844126 10.520437 16.0482964 0.191531814 16.0482964"></polygon>
+                                <polygon id="Path-4-Copy" transform="translate(37.439526, 30.453430) scale(-1, 1) translate(-37.439526, -30.453430) " points="49.8306708 44.9214881 35.2299537 15.9853718 25.0483815 15.9853718"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
